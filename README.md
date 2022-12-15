@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @yaseen-mohmd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yaseen-mohmd/yaseen-mohmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ...social change buut i also like to remind myself of the wise words that .when i was young i wanted to change the world when i was wise i wanted to change myself.
+- 🌱 I’m currently learning ...coding
+- 📫 How to reach me ...@instagram. yaseen_mohmd
